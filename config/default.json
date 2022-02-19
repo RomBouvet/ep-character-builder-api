@@ -28,5 +28,5 @@
       "passwordField": "password"
     }
   },
-  "mongodb": "mongodb+srv://rombouvet:pass2022@cluster0.r2ls9.mongodb.net/ep-character-builder?retryWrites=true&w=majority"
+  "mongodb": "mongodb+srv://rombouvet:pass2022@cluster0.r2ls9.mongodb.net/epCharacterBuilder?retryWrites=true&w=majority"
 }
